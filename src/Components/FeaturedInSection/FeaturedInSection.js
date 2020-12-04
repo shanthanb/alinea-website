@@ -10,7 +10,7 @@ function FeaturedInSection() {
         <section className="ptb-100">
           <div className="container">
             <div className="row justify-content-center">
-              <div className="col-md-8" >
+              <div className="col-md-8">
                 <div className="section-heading text-center mb-5 wgi">
                   <span className="underline-from-center">Featured in</span>
                 </div>
